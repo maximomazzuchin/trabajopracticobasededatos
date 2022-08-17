@@ -27,7 +27,7 @@ insert into actor(actor_id,first_name,last_name) values (11,"Ryan","Reynolds");
 insert into actor(actor_id,first_name,last_name) values (12,"Tom","Hanks");
 
 insert into film(film_id ,title , description, release_year) values (10,"Vengaodres","Matan a thanos", '2005/05/05');
-insert into film(film_id ,title , description, release_year) values (11,"Los 8 mas odiados","Mueren todos en una cabaña", '1997/09/09');
+insert into film(film_id ,title , description, release_year) values (11,"Los 8 mas odiados","Mueren todos en una cabaÃ±a", '1997/09/09');
 insert into film(film_id ,title , description, release_year) values (12,"Batman","Enigma persigue a batman", '2016/04/04');
 
 insert into film_actor (actor_id, film_id) values (10,12);
